@@ -168,7 +168,7 @@ export function ModelsCatalog() {
               </div>
 
               <div className="catalog-actions">
-                <a className="catalog-link-primary" href="/#kontak">
+                <a className="catalog-link-primary" href="/test-drive">
                   Test Drive
                 </a>
                 <Link

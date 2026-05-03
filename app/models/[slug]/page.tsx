@@ -13,7 +13,7 @@ const navItems = [
   { label: "Service", href: "/#service" },
   { label: "Dealer", href: "/#dealer" },
   { label: "Tentang", href: "/#tentang" },
-  { label: "Kontak", href: "/#kontak" },
+  { label: "Kontak", href: "/test-drive" },
 ];
 
 export default function ModelDetailPage() {
@@ -30,7 +30,7 @@ export default function ModelDetailPage() {
   return (
     <main className="model-detail-shell">
       <SiteNavbar
-        ctaHref="/#kontak"
+        ctaHref="/test-drive"
         ctaLabel="Test Drive"
         navItems={navItems}
         variant="light"
@@ -49,7 +49,7 @@ export default function ModelDetailPage() {
             </div>
             <p className="md-price-note">{model.priceNote}</p>
             <div className="md-hero-actions">
-              <a className="md-btn-primary" href="/#kontak">Test Drive</a>
+              <a className="md-btn-primary" href="/test-drive">Test Drive</a>
               <a className="md-btn-secondary" href="/#kontak">Hubungi Dealer</a>
             </div>
           </div>
@@ -170,7 +170,7 @@ export default function ModelDetailPage() {
           <h2>Siap Rasakan {model.name}?</h2>
           <p>Jadwalkan test drive atau kunjungi dealer Surya Otomotif terdekat untuk pengalaman langsung.</p>
           <div className="md-cta-actions">
-            <a className="md-btn-primary" href="/#kontak">Jadwalkan Test Drive</a>
+            <a className="md-btn-primary" href="/test-drive">Jadwalkan Test Drive</a>
             <a className="md-btn-outline" href="/#dealer">Temukan Dealer</a>
           </div>
         </div>

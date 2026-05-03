@@ -10,7 +10,7 @@ const navItems = [
   { label: "Service", href: "/service" },
   { label: "Dealer", href: "/dealer" },
   { label: "Tentang", href: "/about" },
-  { label: "Kontak", href: "/#kontak" }
+  { label: "Kontak", href: "/test-drive" }
 ];
 
 export default function AboutPage() {
@@ -26,7 +26,7 @@ export default function AboutPage() {
 
   return (
     <main className="about-layout">
-      <SiteNavbar ctaHref="/#kontak" ctaLabel="Test Drive" navItems={navItems} variant="overlay" />
+      <SiteNavbar ctaHref="/test-drive" ctaLabel="Test Drive" navItems={navItems} variant="overlay" />
       
       {/* SECTION 1: HERO */}
       <section className="about-hero">

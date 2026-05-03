@@ -11,7 +11,7 @@ const navItems = [
   { label: "Service", href: "/service" },
   { label: "Dealer", href: "/#dealer" },
   { label: "Tentang", href: "/tentang" },
-  { label: "Kontak", href: "/#kontak" }
+  { label: "Kontak", href: "/test-drive" }
 ];
 
 // Data Mock untuk Dropdown Dinamis
@@ -90,7 +90,7 @@ export default function ServicePage() {
 
   return (
     <main className="service-layout">
-      <SiteNavbar ctaHref="/#kontak" ctaLabel="Test Drive" navItems={navItems} variant="light" />
+      <SiteNavbar ctaHref="/test-drive" ctaLabel="Test Drive" navItems={navItems} variant="light" />
       
       <section className="service-hero">
         <Image 

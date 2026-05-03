@@ -2278,4 +2278,180 @@ button {
   }
 }
 
+/* --- Halaman Test Drive --- */
+.td-layout {
+  min-height: 100vh;
+  background: var(--white);
+}
+
+.td-split-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: calc(100vh - 80px); /* Dikurangi tinggi navbar */
+}
+
+/* Kiri: Area Visual */
+.td-visual-pane {
+  position: relative;
+  background: var(--soft);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  padding: 60px 40px;
+}
+
+.td-visual-backdrop {
+  position: absolute;
+  inset: 10% 5% 5% 5%;
+  background: radial-gradient(circle at center, rgba(157, 122, 77, 0.15) 0%, transparent 60%);
+  border-radius: 40px;
+}
+
+.td-visual-content {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.td-visual-text h2 {
+  font-size: clamp(2.5rem, 4vw, 3.5rem);
+  letter-spacing: -0.04em;
+  margin-bottom: 16px;
+  line-height: 1.1;
+}
+
+.td-visual-text p {
+  color: var(--muted);
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.td-image-showcase {
+  margin-top: 60px;
+  display: grid;
+  place-items: center;
+  min-height: 300px; /* Menjaga layout tidak melompat saat gambar berganti */
+}
+
+.td-car-image {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 30px 40px rgba(0,0,0,0.15));
+}
+
+/* Kanan: Area Form */
+.td-form-pane {
+  background: var(--white);
+  padding: 60px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.td-form-wrapper {
+  width: 100%;
+  max-width: 540px;
+}
+
+.td-form-header h3 {
+  font-size: 1.8rem;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+
+/* Pemilih Model */
+.td-model-selector {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 40px;
+}
+
+.td-model-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--white);
+  transition: all 0.3s ease;
+  text-align: left;
+}
+
+.td-model-btn:hover {
+  border-color: var(--line-strong);
+  background: var(--soft);
+}
+
+.td-model-btn.active {
+  border-color: var(--gold);
+  background: rgba(157, 122, 77, 0.05);
+  box-shadow: 0 4px 20px rgba(157, 122, 77, 0.1);
+}
+
+.td-model-btn strong {
+  font-size: 1.1rem;
+  color: var(--text);
+}
+
+.td-badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 4px 10px;
+  background: var(--soft-strong);
+  color: var(--muted);
+  border-radius: 6px;
+}
+
+.td-model-btn.active .td-badge {
+  background: var(--gold);
+  color: var(--white);
+}
+
+/* Form Styles */
+.td-form-footer {
+  margin-top: 32px;
+}
+
+.td-submit-btn {
+  width: 100%;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: none;
+}
+
+.td-disclaimer {
+  margin-top: 16px;
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-align: center;
+  line-height: 1.5;
+}
+
+/* Responsiveness */
+@media (max-width: 1024px) {
+  .td-split-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .td-visual-pane {
+    padding: 60px 20px 40px;
+    text-align: center;
+  }
+  
+  .td-image-showcase {
+    margin-top: 30px;
+    min-height: 200px;
+  }
+  
+  .td-form-pane {
+    padding: 40px 20px 80px;
+  }
+}
+
 

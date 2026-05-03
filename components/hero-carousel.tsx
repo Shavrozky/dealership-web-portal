@@ -106,7 +106,7 @@ export function HeroCarousel({ navItems }: { navItems: NavItem[] }) {
       ))}
       <div className="hero-overlay" />
 
-      <SiteNavbar ctaHref="#kontak" ctaLabel="Test Drive" homeHref="#home" navItems={navItems} />
+      <SiteNavbar ctaHref="test-drive" ctaLabel="Test Drive" homeHref="#home" navItems={navItems} />
 
       <div className="hero-content-wrap">
         <div className="hero-copy" key={`copy-${activeIndex}`}>

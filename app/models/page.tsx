@@ -8,13 +8,13 @@ const navItems = [
   { label: "Service", href: "/service" },
   { label: "Dealer", href: "/dealer" },
   { label: "Tentang", href: "/tentang" },
-  { label: "Kontak", href: "/#kontak" }
+  { label: "Kontak", href: "/test-drive" }
 ];
 
 export default function ModelsPage() {
   return (
     <main className="models-layout">
-      <SiteNavbar ctaHref="/#kontak" ctaLabel="Test Drive" navItems={navItems} variant="light" />
+      <SiteNavbar ctaHref="/test-drive" ctaLabel="Test Drive" navItems={navItems} variant="light" />
 
       <ModelsCatalog />
       <SiteFooter />

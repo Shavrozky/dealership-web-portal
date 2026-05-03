@@ -8,7 +8,7 @@ const navItems = [
   { label: "Service", href: "/service" },
   { label: "Dealer", href: "dealer" },
   { label: "Tentang", href: "tentang" },
-  { label: "Kontak", href: "#kontak" }
+  { label: "Kontak", href: "test-drive" }
 ];
 
 const specialtyCards = [
