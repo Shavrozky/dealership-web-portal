@@ -1,0 +1,40 @@
+<svg width="1800" height="1100" viewBox="0 0 1800 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="1800" y1="0" x2="200" y2="1100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#162433"/>
+      <stop offset="0.45" stop-color="#0A0E16"/>
+      <stop offset="1" stop-color="#241010"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(320 160) rotate(24) scale(520 260)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="car" x1="320" y1="420" x2="1280" y2="770" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F6F8"/>
+      <stop offset="0.45" stop-color="#C9D1DF"/>
+      <stop offset="1" stop-color="#8A95A7"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="780" y1="420" x2="1180" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#222838"/>
+      <stop offset="1" stop-color="#4F566A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="1100" fill="url(#bg)"/>
+  <rect width="1800" height="1100" fill="url(#glow)"/>
+  <path d="M0 870C251 799 470 762 709 754C1006 744 1339 780 1800 892V1100H0V870Z" fill="#1A1D23"/>
+  <path d="M0 930C257 839 558 824 922 842C1252 859 1516 907 1800 1006V1100H0V930Z" fill="#0D0F14"/>
+  <g filter="url(#shadow)">
+    <path d="M420 664C493 617 577 588 653 566C702 552 749 538 834 532L1002 396C1022 379 1047 369 1073 368H1239C1264 368 1287 377 1305 393L1407 485C1434 489 1470 500 1501 513C1552 534 1581 562 1585 596L1602 680C1608 708 1586 734 1558 734H1506C1495 791 1447 834 1388 834C1328 834 1280 791 1270 734H733C723 791 675 834 615 834C554 834 505 791 495 734H431C397 734 370 705 374 671L377 642C379 631 390 623 401 623H420V664Z" fill="url(#car)"/>
+    <path d="M845 533L992 424C1007 413 1026 407 1046 407H1226C1243 407 1259 413 1271 424L1363 509C1370 515 1366 526 1357 526H852C841 526 836 539 845 533Z" fill="url(#glass)"/>
+    <rect x="1303" y="545" width="163" height="98" rx="24" fill="#11161F"/>
+    <rect x="140" y="805" width="1518" height="18" rx="9" fill="#000000" fill-opacity="0.28"/>
+  </g>
+  <circle cx="631" cy="734" r="78" fill="#111318"/>
+  <circle cx="631" cy="734" r="45" fill="#6B717B"/>
+  <circle cx="1392" cy="734" r="78" fill="#111318"/>
+  <circle cx="1392" cy="734" r="45" fill="#6B717B"/>
+  <rect x="1315" y="573" width="117" height="10" rx="5" fill="#D4E7AB"/>
+  <rect x="472" y="575" width="123" height="9" rx="4.5" fill="#F7F7F7" fill-opacity="0.75"/>
+  <rect x="1228" y="532" width="108" height="10" rx="5" fill="#F6F6F6" fill-opacity="0.82"/>
+  <text x="100" y="1010" fill="#FFFFFF" fill-opacity="0.72" font-family="Arial, Helvetica, sans-serif" font-size="40" letter-spacing="10">SURYA OTOMOTIF HERO PLACEHOLDER</text>
+</svg>

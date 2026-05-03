@@ -1,0 +1,16 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#101317"/>
+  <rect width="900" height="1200" fill="url(#paint0_linear_0_1)"/>
+  <path d="M124 774C181 734 245 711 314 690C375 672 446 662 520 662L616 584C632 570 652 562 673 562H748C772 562 794 571 810 587L850 626C859 635 854 651 842 655L808 668L820 735H794C784 779 744 810 696 810C648 810 609 779 599 735H322C311 779 272 810 224 810C176 810 137 779 127 735H100C82 735 70 717 77 701L101 648C106 637 124 640 124 655V774Z" fill="#ECEEF1"/>
+  <circle cx="231" cy="736" r="49" fill="#15181D"/>
+  <circle cx="231" cy="736" r="25" fill="#6B7380"/>
+  <circle cx="695" cy="736" r="49" fill="#15181D"/>
+  <circle cx="695" cy="736" r="25" fill="#6B7380"/>
+  <text x="58" y="1088" fill="#FFFFFF" fill-opacity="0.88" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">BEV Placeholder</text>
+  <defs>
+    <linearGradient id="paint0_linear_0_1" x1="784" y1="53" x2="173" y2="1132" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#41515B"/>
+      <stop offset="1" stop-color="#0A0C0F"/>
+    </linearGradient>
+  </defs>
+</svg>

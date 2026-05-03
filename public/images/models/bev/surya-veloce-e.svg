@@ -1,0 +1,14 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="36" fill="#F7F3ED"/>
+  <path d="M128 560C320 522 467 504 676 500C844 497 976 510 1076 534V620H128V560Z" fill="#E8DED0"/>
+  <path d="M232 420C281 381 332 357 429 333C486 319 539 309 634 309L759 228C775 218 794 213 813 213H938C969 213 999 224 1022 245L1080 298C1091 308 1088 325 1074 332L1028 354L1045 437H1008C996 489 949 526 892 526C835 526 788 489 776 437H420C407 489 360 526 304 526C247 526 200 489 188 437H172C149 437 136 411 149 392L200 352C214 341 232 351 232 369V420Z" fill="#DCE2EA" stroke="#C7CED9" stroke-width="10"/>
+  <path d="M641 313L760 241C773 233 788 229 804 229H931C949 229 966 235 980 245L1034 285C1043 292 1038 306 1027 306H649C640 306 633 321 641 313Z" fill="#273140"/>
+  <circle cx="320" cy="441" r="56" fill="#171A1F"/>
+  <circle cx="320" cy="441" r="28" fill="#66717D"/>
+  <circle cx="889" cy="441" r="56" fill="#171A1F"/>
+  <circle cx="889" cy="441" r="28" fill="#66717D"/>
+  <rect x="285" y="335" width="178" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.76"/>
+  <rect x="863" y="330" width="126" height="11" rx="5.5" fill="#CDE1AF"/>
+  <text x="88" y="106" fill="#131313" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">SURYA VELOCE E</text>
+  <text x="88" y="148" fill="#7A6B59" font-family="Arial, Helvetica, sans-serif" font-size="26">Replace with final PNG transparan</text>
+</svg>

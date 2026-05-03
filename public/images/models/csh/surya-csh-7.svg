@@ -1,0 +1,13 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="36" fill="#F7F3ED"/>
+  <path d="M124 564C305 520 488 501 676 501C867 501 1004 516 1076 534V620H124V564Z" fill="#E8DED0"/>
+  <path d="M225 419C263 383 330 361 403 343C471 326 558 315 664 315L765 223C781 208 804 200 827 200H954C980 200 1004 210 1021 228L1093 302C1102 311 1098 327 1087 332L1047 349L1063 435H1025C1012 486 966 523 909 523C851 523 804 486 792 435H406C394 486 347 523 290 523C232 523 186 486 174 435H157C136 435 124 409 138 393L189 351C202 340 225 349 225 366V419Z" fill="#3A4C52" stroke="#29353A" stroke-width="10"/>
+  <path d="M668 318L767 241C782 230 800 224 819 224H947C967 224 986 231 1000 245L1055 296C1062 303 1057 315 1047 315H675C665 315 660 327 668 318Z" fill="#1D2229"/>
+  <circle cx="303" cy="439" r="56" fill="#171A1F"/>
+  <circle cx="303" cy="439" r="28" fill="#66717D"/>
+  <circle cx="909" cy="439" r="56" fill="#171A1F"/>
+  <circle cx="909" cy="439" r="28" fill="#66717D"/>
+  <rect x="843" y="338" width="140" height="11" rx="5.5" fill="#DDEBA6"/>
+  <text x="88" y="106" fill="#131313" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">SURYA CSH 7</text>
+  <text x="88" y="148" fill="#7A6B59" font-family="Arial, Helvetica, sans-serif" font-size="26">Replace with final PNG transparan</text>
+</svg>

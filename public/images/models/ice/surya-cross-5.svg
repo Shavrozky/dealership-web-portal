@@ -1,0 +1,13 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="36" fill="#F7F3ED"/>
+  <path d="M124 565C283 530 458 509 656 509C834 509 988 522 1076 542V620H124V565Z" fill="#E7DFD1"/>
+  <path d="M203 425C246 382 309 365 395 347C469 330 552 321 656 321L774 223C792 208 814 200 837 200H956C983 200 1009 211 1028 230L1093 298C1102 307 1099 323 1088 330L1042 356L1056 443H1020C1007 494 962 530 906 530C850 530 805 494 792 443H408C395 494 350 530 294 530C237 530 193 494 180 443H160C140 443 127 419 140 403L191 355C201 347 203 353 203 365V425Z" fill="#2E2321" stroke="#171313" stroke-width="10"/>
+  <path d="M663 324L777 239C791 229 808 223 827 223H952C970 223 988 229 1001 241L1060 292C1067 300 1062 313 1051 313H670C661 313 654 327 663 324Z" fill="#3F4045"/>
+  <circle cx="304" cy="444" r="56" fill="#171A1F"/>
+  <circle cx="304" cy="444" r="28" fill="#66717D"/>
+  <circle cx="909" cy="444" r="56" fill="#171A1F"/>
+  <circle cx="909" cy="444" r="28" fill="#66717D"/>
+  <rect x="850" y="339" width="132" height="11" rx="5.5" fill="#E7D4A3"/>
+  <text x="88" y="106" fill="#131313" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">SURYA CROSS 5</text>
+  <text x="88" y="148" fill="#7A6B59" font-family="Arial, Helvetica, sans-serif" font-size="26">Replace with final PNG transparan</text>
+</svg>

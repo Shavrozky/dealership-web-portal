@@ -1,0 +1,13 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="36" fill="#F7F3ED"/>
+  <path d="M124 566C308 524 479 507 690 507C849 507 980 523 1076 543V620H124V566Z" fill="#E6DED0"/>
+  <path d="M183 438C216 398 285 377 370 358C460 338 556 328 664 328L809 232C824 219 843 212 863 212H987C1012 212 1036 221 1054 238L1097 279C1110 292 1107 313 1090 322L1035 352L1049 447H1018C1004 498 960 534 905 534C849 534 805 498 791 447H376C362 498 318 534 263 534C207 534 163 498 149 447H132C113 447 101 425 112 408L156 361C169 347 183 356 183 373V438Z" fill="#121417" stroke="#050608" stroke-width="10"/>
+  <path d="M671 331L810 246C823 237 839 232 856 232H980C995 232 1010 237 1022 246L1060 276C1068 282 1064 294 1055 294H678C667 294 662 310 671 331Z" fill="#5A6272"/>
+  <circle cx="272" cy="448" r="55" fill="#171A1F"/>
+  <circle cx="272" cy="448" r="27" fill="#66717D"/>
+  <circle cx="903" cy="448" r="55" fill="#171A1F"/>
+  <circle cx="903" cy="448" r="27" fill="#66717D"/>
+  <rect x="858" y="323" width="118" height="11" rx="5.5" fill="#DDD6CA"/>
+  <text x="88" y="106" fill="#131313" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">SURYA GRAND TOURING</text>
+  <text x="88" y="148" fill="#7A6B59" font-family="Arial, Helvetica, sans-serif" font-size="26">Replace with final PNG transparan</text>
+</svg>

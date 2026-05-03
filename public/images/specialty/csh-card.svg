@@ -1,0 +1,16 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#111417"/>
+  <rect width="900" height="1200" fill="url(#paint0_linear_0_1)"/>
+  <path d="M115 785C154 748 212 725 289 705C360 686 442 675 535 675L626 598C644 583 666 575 689 575H764C790 575 815 585 832 604L864 639C876 651 871 671 855 677L824 690L835 752H809C795 800 752 832 701 832C649 832 606 800 593 752H292C279 800 236 832 184 832C131 832 89 800 75 752H63C47 752 36 733 41 718L67 658C74 643 89 646 89 660L115 785Z" fill="#33504B"/>
+  <circle cx="191" cy="753" r="48" fill="#15181D"/>
+  <circle cx="191" cy="753" r="25" fill="#6B7380"/>
+  <circle cx="701" cy="753" r="48" fill="#15181D"/>
+  <circle cx="701" cy="753" r="25" fill="#6B7380"/>
+  <text x="58" y="1088" fill="#FFFFFF" fill-opacity="0.88" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">CSH Placeholder</text>
+  <defs>
+    <linearGradient id="paint0_linear_0_1" x1="801" y1="91" x2="133" y2="1103" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6A776A"/>
+      <stop offset="1" stop-color="#0A0E0E"/>
+    </linearGradient>
+  </defs>
+</svg>
